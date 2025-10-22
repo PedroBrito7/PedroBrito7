@@ -4,7 +4,7 @@
 Sou estudante de **Análise e Desenvolvimento de Sistemas** e apaixonado por tecnologia.  
 Atualmente, estou me aprofundando em **Node.js**, **TypeScript** e **React**.  
 
-Tenho conhecimentos básicos em **Java** e **Python**, e gosto de explorar diferentes stacks para entender como cada parte do ecossistema se conecta. 🚀  
+Tenho conhecimentos em **Java** e **Python**, e gosto de explorar diferentes stacks para entender como cada parte do ecossistema se conecta. 🚀  
 
 Sou uma pessoa **curiosa**, **criativa** e sempre em busca de aprender algo novo — principalmente quando o aprendizado envolve colocar a mão no código e ver ideias ganhando vida.  
 
