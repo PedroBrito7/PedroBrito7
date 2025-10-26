@@ -33,12 +33,11 @@ Sou uma pessoa **curiosa**, **criativa** e sempre em busca de aprender algo novo
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroBrito7&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroBrito7&layout=compact&langs_count=7&theme=tokyonight" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroBrito7&layout=compact&langs_count=7&theme=tokyonight&hide=html" />
   </a>
 </div>
 
 ---
-
 ## 🌐 Me encontre
 
 <div align="center">
