@@ -12,13 +12,14 @@ Atualmente, busco uma oportunidade para aplicar meus conhecimentos e continuar e
 ## 🛠️ Tecnologias em foco
 
 <div align="center">
-  <br>
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="50" width="60" alt="Java" title="Java">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" height="50" width="60" alt="Angular" title="Angular">
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="50" width="60" alt="JavaScript" title="JavaScript">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" height="50" width="60" alt="Node.js" title="Node.js">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="50" width="60" alt="Python" title="Python">
-  
+  <br>
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="50" width="60" alt="Java" title="Java">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" height="50" width="60" alt="Angular" title="Angular">
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" height="50" width="60" alt="TypeScript" title="TypeScript">
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="50" width="60" alt="JavaScript" title="JavaScript">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" height="50" width="60" alt="Node.js" title="Node.js">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="50" width="60" alt="Python" title="Python">
+  
 </div>
 
 ---
