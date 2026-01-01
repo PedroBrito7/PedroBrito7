@@ -2,7 +2,7 @@
 **`Desenvolvedor BackEnd`**
 
 
-Meu nome é Pedro Brito, estudante de Análise e Desenvolvimento de Sistemas, com foco no desenvolvimento Java. Tenho experiência prática em diferentes stacks, o que fortaleceu minha lógica, minha capacidade de adaptação e meu raciocínio para resolver problemas de forma eficiente.
+Meu nome é Pedro Brito, estudante de Análise e Desenvolvimento de Sistemas, com foco no desenvolvimento Java | BackEnd. Tenho experiência prática em diferentes stacks, o que fortaleceu minha lógica, minha capacidade de adaptação e meu raciocínio para resolver problemas de forma eficiente.
 Possuo conhecimentos em JavaScript, além de conhecimentos prévios em Python e PHP por conta da faculdade e projetos, o que me permite transitar entre diversas tecnologias com facilidade.
 Graças aos meus anteriores trabalhos, desenvolvi soft skills importantes como comunicação, proatividade, organização e trabalho em equipe habilidades que hoje me ajudam a aprender mais rápido, colaborar melhor e entregar resultados com qualidade.
 Atualmente, busco uma oportunidade para aplicar meus conhecimentos e continuar evoluindo como desenvolvedor.
