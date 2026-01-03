@@ -27,13 +27,9 @@ Atualmente, busco uma oportunidade para aplicar meus conhecimentos e continuar e
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-
-  <img height="180em"
-       src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=PedroBrito7&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
-
-  <img height="180em"
-       src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=PedroBrito7&layout=compact&langs_count=10&theme=dark" />
-
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats-kohl-delta.vercel.app?user=PedroBrito7&theme=dark" alt="GitHub Streak" />
+  </a>
 </div>
 
 ---
