@@ -18,7 +18,6 @@ Atualmente, busco uma oportunidade para aplicar meus conhecimentos e continuar e
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" height="50" width="60" alt="TypeScript" title="TypeScript">
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="50" width="60" alt="JavaScript" title="JavaScript">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" height="50" width="60" alt="Node.js" title="Node.js">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="50" width="60" alt="Python" title="Python">
   
 </div>
 
