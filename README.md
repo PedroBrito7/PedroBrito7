@@ -1,15 +1,14 @@
+Hey there! I'm Pedro Brito
 # 👨‍💻 PedroBrito7
 **`Desenvolvedor BackEnd`**
 
-
-Meu nome é Pedro Brito, estudante de Análise e Desenvolvimento de Sistemas, com foco no desenvolvimento Java | BackEnd. Tenho experiência prática em diferentes stacks, o que fortaleceu minha lógica, minha capacidade de adaptação e meu raciocínio para resolver problemas de forma eficiente.
-Possuo conhecimentos em JavaScript, além de conhecimentos prévios em Python e Frameworks de javascript por conta da faculdade e projetos, o que me permite transitar entre diversas tecnologias com facilidade, mas com um único objetivo: resolver problemas.
-Graças aos meus anteriores trabalhos, desenvolvi soft skills importantes como comunicação, proatividade, organização e trabalho em equipe habilidades que hoje me ajudam a aprender mais rápido, colaborar melhor e entregar resultados com qualidade.
-Atualmente, busco uma oportunidade para aplicar meus conhecimentos e continuar evoluindo como Engenheiro de software.
+I am a student of Systems Analysis and Development, and i have been studying technology for 3 years. focused on Java Back-End development. I have hands-on experience with different stacks, which has strengthened my logic, adaptability, and problem-solving skills in an efficient way. I have knowledge of JavaScript, as well as the Node.js and Angular.js frameworks through college and projects, which allows me to move easily between different technologies with a single goal: solving problems. Through my previous work experiences, I developed important soft skills such as communication, proactivity, organization, and teamwork—skills that help me learn faster, collaborate better, and deliver high-quality results. Currently, I am seeking an opportunity to apply my knowledge and continue growing as a Software Engineer.
 
 ---
+### 🎓 Education
+- 🎓 Systems Analysis and Development (UNICSUL)
 
-## 🛠️ Tecnologias em foco
+## 🛠️ Technologies and Tools
 
 <div align="center">
   <br>
@@ -23,7 +22,7 @@ Atualmente, busco uma oportunidade para aplicar meus conhecimentos e continuar e
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 📊 GitHub Stats
 
 <div align="center">
   <a href="https://git.io/streak-stats">
