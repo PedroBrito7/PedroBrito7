@@ -7,6 +7,7 @@ I am a student of Systems Analysis and Development, and i have been studying tec
 ---
 ### 🎓 Education
 - 🎓 Systems Analysis and Development (UNICSUL)
+----
 
 ## 🛠️ Technologies and Tools
 
