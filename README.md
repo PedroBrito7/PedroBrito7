@@ -33,7 +33,8 @@ I am a student of Systems Analysis and Development, and i have been studying tec
 
 ---
 
-## 🌐 Me encontre
+## 🌐 find me
+
 
 <div align="center">
   <a href="https://www.youtube.com/channel/UCaWfZFpX9LB-vw0ZTqLvWtg" target="_blank">
