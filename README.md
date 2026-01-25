@@ -2,7 +2,7 @@ Hey there! I'm Pedro Brito
 # 👨‍💻 PedroBrito7
 **`Software Enginner BackEnd`**
 
-I am a student of Systems Analysis and Development, and i have been studying technology for 3 years. focused on Java Back-End development. I have hands-on experience with different stacks, which has strengthened my logic, adaptability, and problem-solving skills in an efficient way. I have knowledge of JavaScript, as well as the Node.js and Angular.js frameworks through college and projects, which allows me to move easily between different technologies with a single goal: solving problems. Through my previous work experiences, I developed important soft skills such as communication, proactivity, organization, and teamwork—skills that help me learn faster, collaborate better, and deliver high-quality results. Currently, I am seeking an opportunity to apply my knowledge and continue growing as a Software Engineer.
+I am a student of Systems Analysis and Development, and i have been studying technology for 3 years. focused on Java Full-Stack development. I have hands-on experience with different stacks, which has strengthened my logic, adaptability, and problem-solving skills in an efficient way. I have knowledge of JavaScript, as well as the Node.js and Angular.js frameworks through college and projects, which allows me to move easily between different technologies with a single goal: solving problems. Through my previous work experiences, I developed important soft skills such as communication, proactivity, organization, and teamwork—skills that help me learn faster, collaborate better, and deliver high-quality results. Currently, I am seeking an opportunity to apply my knowledge and continue growing as a Software Engineer.
 
 ---
 ### 🎓 Education
