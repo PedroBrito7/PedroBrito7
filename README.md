@@ -25,10 +25,8 @@ I am a student of Systems Analysis and Development, and i have been studying tec
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroBrito7&show_icons=true&theme=merko&hide_border=false&custom_title=Estatísticas%20do%20GitHub" alt="Estatísticas do GitHub"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroBrito7&layout=compact&theme=merko&hide_border=false&custom_title=Linguagens%20Mais%20Usadas" alt="Linguagens Mais Usadas"/>
-</p>
+![Pedro Brito Status](https://github-readme-stats.vercel.app/api?username=PedroBrito7&show_icons=true)
+ 
 
 
 
