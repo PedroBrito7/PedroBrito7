@@ -1,39 +1,36 @@
-Hey there! I'm Pedro Brito
-# 👨‍💻 PedroBrito7
-**`Software Enginner BackEnd`**
+Olá! Eu sou o Pedro Brito  
+# 👨‍💻 PedroBrito7  
+**`Engenheiro de Software BackEnd`**
 
-I am a student of Systems Analysis and Development, and i have been studying technology for 3 years. focused on Java BackEnd development. I have hands-on experience with different stacks, which has strengthened my logic, adaptability, and problem-solving skills in an efficient way. I have knowledge of JavaScript, as well as the Node.js and Angular.js frameworks through college and projects, which allows me to move easily between different technologies with a single goal: solving problems. Through my previous work experiences, I developed important soft skills such as communication, proactivity, organization, and teamwork—skills that help me learn faster, collaborate better, and deliver high-quality results. Currently, I am seeking an opportunity to apply my knowledge and continue growing as a Software Engineer.
+Sou estudante de Análise e Desenvolvimento de Sistemas e estudo tecnologia há cerca de 3 anos, com foco em desenvolvimento BackEnd em Java. Possuo experiência prática com diferentes stacks, o que fortaleceu minha lógica, adaptabilidade e capacidade de resolver problemas de forma eficiente. Tenho conhecimento em JavaScript e Typescript, além dos frameworks Node.js e Angular.js, adquiridos por meio da faculdade e de projetos, o que me permite transitar com facilidade entre diferentes tecnologias com um único objetivo: resolver problemas.
+
+Ao longo das minhas experiências anteriores, desenvolvi importantes soft skills, como comunicação, proatividade, organização e trabalho em equipe — habilidades que me ajudam a aprender mais rápido, colaborar melhor e entregar resultados de alta qualidade. Atualmente, busco uma oportunidade para aplicar meus conhecimentos e continuar evoluindo como Engenheiro de Software.
 
 ---
-### 🎓 Education
--  Systems Analysis and Development (UNICSUL)
+### 🎓 Formação
+- Análise e Desenvolvimento de Sistemas (UNICSUL)
 ----
 
-## 🛠️ Technologies and Tools
+## 🛠️ Tecnologias e Ferramentas
 
 <div align="center">
-  <br>
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="50" width="60" alt="Java" title="Java">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" height="50" width="60" alt="Angular" title="Angular">
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" height="50" width="60" alt="TypeScript" title="TypeScript">
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="50" width="60" alt="JavaScript" title="JavaScript">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" height="50" width="60" alt="Node.js" title="Node.js">
-  
+  <br>
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="50" width="60" alt="Java" title="Java">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" height="50" width="60" alt="Angular" title="Angular">
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" height="50" width="60" alt="TypeScript" title="TypeScript">
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="50" width="60" alt="JavaScript" title="JavaScript">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" height="50" width="60" alt="Node.js" title="Node.js">
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Estatísticas do GitHub
 
-![Pedro Brito Status](https://github-readme-stats.vercel.app/api?username=PedroBrito7&show_icons=true)
- 
-
-
+![Status do Pedro Brito](https://github-readme-stats.vercel.app/api?username=PedroBrito7&show_icons=true)
 
 ---
 
-## 🌐 Find me
-
+## 🌐 Onde me encontrar
 
 <div align="center">
   <a href="https://www.youtube.com/channel/UCaWfZFpX9LB-vw0ZTqLvWtg" target="_blank">
