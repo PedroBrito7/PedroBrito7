@@ -2,7 +2,7 @@ Olá! Eu sou o Pedro Brito
 # 👨‍💻 PedroBrito7  
 **`Engenheiro de Software BackEnd`**
 
-Sou estudante de Análise e Desenvolvimento de Sistemas e estudo tecnologia há cerca de 3 anos, com foco em desenvolvimento BackEnd em Java. Possuo experiência prática com diferentes stacks, o que fortaleceu minha lógica, adaptabilidade e capacidade de resolver problemas de forma eficiente. Tenho conhecimento em JavaScript e Typescript, além dos frameworks Node.js e Angular.js, adquiridos por meio da faculdade e de projetos, o que me permite transitar com facilidade entre diferentes tecnologias com um único objetivo: resolver problemas.
+Sou estudante de Análise e Desenvolvimento de Sistemas e estudo tecnologia há cerca de 3 anos, com foco em desenvolvimento Backend em Java. Possuo experiência prática com diferentes stacks, o que fortaleceu minha lógica, adaptabilidade e capacidade de resolver problemas de forma eficiente. Tenho conhecimento em JavaScript e Typescript, além dos frameworks Node.js e Angular.js, adquiridos por meio da faculdade e de projetos pessoais, o que me permite transitar com facilidade entre diferentes tecnologias com um único objetivo: resolver problemas.
 
 Ao longo das minhas experiências anteriores, desenvolvi importantes soft skills, como comunicação, proatividade, organização e trabalho em equipe — habilidades que me ajudam a aprender mais rápido, colaborar melhor e entregar resultados de alta qualidade. Atualmente, busco uma oportunidade para aplicar meus conhecimentos e continuar evoluindo como Engenheiro de Software.
 
