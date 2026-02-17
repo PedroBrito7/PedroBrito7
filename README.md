@@ -1,4 +1,3 @@
-Olá! Eu sou o Pedro Brito  
 # 👨‍💻 PedroBrito7  
 **`Engenheiro de Software `**
 
