@@ -87,6 +87,13 @@ In addition to technical skills, through previous work experiences I developed i
 
 ![Pedro Brito Status](https://github-readme-stats.vercel.app/api?username=PedroBrito7&show_icons=true)
 
+<div align="center">
+  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=PedroBrito7&show_icons=true&theme=dracula&hide_border=false&custom_title=Estatísticas+do+GitHub" />
+  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=PedroBrito7&layout=compact&theme=dracula&hide_border=false&custom_title=Linguagens+Mais+Usadas" />
+</div>
+
+
+
 ---
 
 ## 🌐 Where to Find Me
