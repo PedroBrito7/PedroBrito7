@@ -17,7 +17,7 @@ In addition to technical skills, through previous work experiences I developed i
 ---
 
 ### 🎓 Education
-- Systems Analysis and Development — UNICSUL
+- Systems Analysis and Development — UNICSUL 
 
 ---
 
@@ -84,8 +84,6 @@ In addition to technical skills, through previous work experiences I developed i
 ---
 
 ## 📊 GitHub Stats
-
-![Pedro Brito Status](https://github-readme-stats.vercel.app/api?username=PedroBrito7&show_icons=true)
 
 <div align="center">
   <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=PedroBrito7&show_icons=true&theme=dracula&hide_border=false&custom_title=Estatísticas+do+GitHub" />
