@@ -61,7 +61,7 @@ In addition to technical skills, through previous work experiences I developed i
 
 <br/>
 
-### 🧪 Dev & Testing
+### 🧪 Dev & Testing  (Learning)
 
 <div style="display: flex; gap: 10px;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40">
@@ -72,7 +72,7 @@ In addition to technical skills, through previous work experiences I developed i
 
 <br/>
 
-### 🖥️ Infra & DevOps
+### 🖥️ Infra & DevOps  (Learning)
 
 <div style="display: flex; gap: 10px;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40">
