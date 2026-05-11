@@ -8,7 +8,7 @@ Hey there! I'm Pedro Brito
 Software Engineer | Backend Developer focused on Java & Spring
 Software Engineer focused on **backend development using Java and the Spring ecosystem**, dedicated to building **scalable, robust, and well-structured applications**. I have experience developing web applications and APIs, applying clean code practices, architectural principles, and problem-solving strategies to create reliable solutions.
 
-I also have knowledge of **JavaScript and TypeScript**, as well as frameworks such as **Node.js, Angular, and React**, which allows me to understand the integration between frontend and backend and work more effectively across the full web application stack.
+I also have knowledge of **JavaScript and TypeScript**, as well as frameworks such as **Node.js, and React**, which allows me to understand the integration between frontend and backend and work more effectively across the full web application stack.
 
 Over the past few years studying and developing academic and personal projects, I have built a solid foundation in **software development, REST API design, database integration, and application architecture**. I am also expanding my knowledge in important areas of modern development such as **automated testing, infrastructure, and cloud technologies including AWS and Vercel**, applying these concepts in practical projects.
 
@@ -34,10 +34,8 @@ In addition to technical skills, through previous work experiences I developed i
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" width="40">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="40">
 </div>
 
 <br/>
@@ -77,7 +75,6 @@ In addition to technical skills, through previous work experiences I developed i
 <div style="display: flex; gap: 10px;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="40">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="40">
 </div>
 
