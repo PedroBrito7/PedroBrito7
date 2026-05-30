@@ -1,46 +1,79 @@
-Hey there! I'm Pedro Brito
----
-
-## 👨‍💻 About Me
-
-> Software Engineer | Backend Developer
-
-Software Engineer | Backend Developer focused on Java & Spring
-Software Engineer focused on **backend development using Java and the Spring ecosystem**, dedicated to building **scalable, robust, and well-structured applications**. I have experience developing web applications and APIs, applying clean code practices, architectural principles, and problem-solving strategies to create reliable solutions.
-
-I also have knowledge of **JavaScript and TypeScript**, as well as frameworks such as **Node.js, and React**, which allows me to understand the integration between frontend and backend and work more effectively across the full web application stack.
-
-Over the past few years studying and developing academic and personal projects, I have built a solid foundation in **software development, REST API design, database integration, and application architecture**. I am also expanding my knowledge in important areas of modern development such as **automated testing, infrastructure, and cloud technologies including AWS and Vercel**, applying these concepts in practical projects.
-
-In addition to technical skills, through previous work experiences I developed important soft skills such as **communication, organization, proactivity, and teamwork**, which contribute to effective collaboration and continuous growth as a software engineer.
+# Hey there! I'm Pedro Brito 👋
 
 ---
 
-### 🎓 Education
-- Systems Analysis and Development — UNICSUL 
+## 🤖 About Me
+
+> AI Automation | Data & AI Intern | Backend | 
+
+Currently working as an intern in the fields of Data, Artificial Intelligence, and Process Automation, focusing on the development, validation, and improvement of AI-powered solutions and business workflows.
+
+My work involves building and testing automations, integrating systems through APIs, evaluating AI agents, and supporting the adoption of Large Language Models (LLMs) in real-world business processes. I am particularly interested in AI Quality Assurance, Agent Evaluation, Process Automation, and the intersection between Software Engineering and Artificial Intelligence.
+
+My technical background was built through software development projects using Java, JavaScript, SQL, and web technologies. Today, I primarily work with Python, AI Agents, workflow automation, data-driven solutions, and intelligent process optimization.
+
+Currently expanding my knowledge in:
+
+- AI Agent Testing & Evaluation
+- LLM Quality Assurance (QA)
+- Process Automation
+- Python Development
+- Claude Code
+- OpenAI Ecosystem
+- Workflow Automation
+- .NET & C#
+- Data Engineering Fundamentals
+- API Integrations
+
+I enjoy solving problems, optimizing workflows, and exploring how Artificial Intelligence can create scalable and reliable solutions for businesses.
 
 ---
 
-## 🛠️ Technologies and Tools
+## 🎓 Education
 
-<br/>
+- Systems Analysis and Development — UNICSUL
 
-### 💻 Languages & Frameworks
+---
+
+## 🛠️ Technologies & Tools
+
+### 🤖 Artificial Intelligence & Automation
+
+- AI Agents
+- LLM Evaluation
+- Prompt Engineering
+- Claude Code
+- OpenAI
+- Workflow Automation
+- Process Automation
+- Pipefy
+- AI Quality Assurance
+- Agent Testing
+
+---
+
+### 🐍 Programming
 
 <div style="display: flex; gap: 10px;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="40">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40">
 </div>
 
-<br/>
+---
 
-### 🗄️ Databases
+### 🌐 APIs & Backend
+
+<div style="display: flex; gap: 10px;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="40">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="40">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="40">
+</div>
+
+---
+
+### 🗄️ Data & Databases
 
 <div style="display: flex; gap: 10px;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40">
@@ -48,59 +81,63 @@ In addition to technical skills, through previous work experiences I developed i
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40">
 </div>
 
-<br/>
+**Skills**
+- SQL
+- Data Analysis
+- Data Processing
+- API Integrations
+- Business Process Automation
 
-### ☁️ Cloud & Deployment (Learning)
+---
 
-<div style="display: flex; gap: 10px;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg" width="40">
-</div>
-
-<br/>
-
-### 🧪 Dev & Testing  (Learning)
+### ⚙️ Development & QA
 
 <div style="display: flex; gap: 10px;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/junit/junit-original.svg" width="40">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="40">
 </div>
 
-<br/>
+**Skills**
+- Git
+- GitHub
+- Quality Assurance
+- AI Testing
+- Automated Testing
+- Validation & Evaluation
 
-### 🖥️ Infra & DevOps  (Learning)
+---
 
-<div style="display: flex; gap: 10px;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="40">
-</div>
+### ☁️ Currently Learning
+
+- .NET
+- C#
+- Cloud Computing
+- Docker
+- AI Observability
+- Agent Monitoring
+- Data Engineering
 
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=PedroBrito7&show_icons=true&theme=dracula&hide_border=false&custom_title=Estatísticas+do+GitHub" />
-  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=PedroBrito7&layout=compact&theme=dracula&hide_border=false&custom_title=Linguagens+Mais+Usadas" />
+  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=PedroBrito7&show_icons=true&theme=dracula&hide_border=false&custom_title=GitHub+Stats" />
+  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=PedroBrito7&layout=compact&theme=dracula&hide_border=false&custom_title=Most+Used+Languages" />
 </div>
-
-
 
 ---
 
-## 🌐 Where to Find Me
+## 🌐 Connect With Me
 
-<div align="center">
-  <a href="https://www.youtube.com/channel/UCaWfZFpX9LB-vw0ZTqLvWtg" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
-  </a>
-  <a href="mailto:pedrobritofreitas10@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
-  <a href="https://www.linkedin.com/in/pedro-brito-freitas/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-</div>
+I'm always open to discussions about:
+
+- Artificial Intelligence
+- AI Agents
+- Process Automation
+- Python
+- Data
+- Software Engineering
+- AI Quality Assurance
+
+Let's connect and exchange ideas!
